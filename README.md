@@ -1,7 +1,7 @@
 # BananaTycoon
 A tycoon themed game made with GameMaker: Studio
 
-# History beheind the game
+# History behind the game
 I made this game during a coding course in 8th grade.
 
 # Website
